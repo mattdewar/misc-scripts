@@ -1,5 +1,5 @@
 (*
-This AppleScriptObjC uses Apple frameworks to disable Bluetooth on the system.
+This AppleScript uses Apple frameworks to disable Bluetooth on the system.
 It attempts to turn off Bluetooth using the IOBluetooth framework and provides 
 feedback through dialog boxes indicating success or failure.
 *)
